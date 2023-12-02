@@ -1,16 +1,13 @@
 # toku
 
-A new Flutter project.
+Created an educational mobile application, Toku, using Flutter, focused on teaching fundamental basics of the Japanese language. The app offers interactive lessons covering numbers, relatives, and simple sentences.
 
-## Getting Started
+## Tools
 
-This project is a starting point for a Flutter application.
+Audio Playeing using audio_player package
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+1. Relatives Screen
+2. Numbers Screen
+3. Colors Screen
+4. Sentences Screen
